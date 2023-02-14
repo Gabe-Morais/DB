@@ -1,2 +1,2 @@
-# React-Study
-Repository for my React studies
+# DB
+Repositório para as aulas de Banco de Dados
